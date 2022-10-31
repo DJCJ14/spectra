@@ -10,7 +10,7 @@
 
 :root{
     /*Speaking Rings*/
-  --gradient1:  #ffe89b;
+  --gradient1:  #66b933;
   --gradient2:  #fdc91e;
   --gradientangle: 45deg;
   --dmvoicebgcolor: #c39a13;
@@ -34,7 +34,7 @@
 }
 
 .theme-dark .inviteRowName-3H4s_c {
-    color: #ffe89b;
+    color: #66b933;
 }
 
 .theme-dark .inviteRow-3vmB7i:hover {
@@ -42,11 +42,11 @@
 }
 
 .contents-3ca1mk {
-    color: #ffe89b;
+    color: #66b933;
 }
 
 .cooldownWrapper-2k1jHK {
-    color: #ffe89b;
+    color: #66b933;
 }
 
 .discrimBase-1VOoau {
